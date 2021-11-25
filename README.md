@@ -1,6 +1,6 @@
 # controller-ev3
 This is a script to use EV3 robots and raspberrys on remo.tv!
-Getting started:
+# **Getting started:**
 You need to install Remo.TV controller on a raspberry (I used Pi 4 4GB)
 https://github.com/remotv/controller
 Then, go to ~/remotv/hardware
